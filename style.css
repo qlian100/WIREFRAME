@@ -1,0 +1,215 @@
+body{
+	background-color:#ffffff;
+}
+
+.container{
+	
+	
+}
+
+.top{
+
+background-color:#cccccc;
+	height: 70px;
+}
+
+
+.navbar{
+
+	background-color: #000000;
+	height: 80px;
+	position: fixed;
+	width: 100%;
+	top:0px;
+	font-size: 15px;
+	color:#ffffff;
+	z-index: 10000;
+	display: flex;
+
+
+}
+
+
+.home{
+
+	height: 30px;
+	width: 50px;
+	background-color: #ff00ff
+}
+
+.menu{
+
+	height: 30px;
+	width: 50px;
+	background-color: #ff00ff
+}
+.contact{
+
+	height: 30px;
+	width: 50px;
+	background-color: #ff00ff
+}
+
+
+
+
+/*-----------------------------------------------*/
+.slides{
+
+background-color: #aaaaaa;
+	height: 900px;
+}
+
+.slide{
+
+	width: 1000px;
+	height: 500px;
+
+	/* you are probably going to want to remove the ones below */
+
+	background-color: #660000;
+	color: #ffffff;
+	font-size: 100px;
+}
+
+.slidebox{
+
+	width: 50000px;   /* there are 5 slide */
+	display: flex;
+	position: relative;
+}
+
+
+
+
+.slides{
+
+	width: 1000px; /* 1 slide at a time */
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+}
+
+.right, .left{
+
+	width: 100px;
+	height: 30px;
+	padding:5px;
+	text-align: center;
+	background-color: #dddddd;
+	position: absolute;
+	top:250px;
+	z-index: 100;
+
+
+}
+
+
+
+.right{
+
+	right:0px;
+	z-index: 101;
+}
+/*-----------------------------------------------*/
+.bottom{
+
+background-color: #ff00ff;
+	height: 200px;
+	display: flex;
+}
+
+
+.about-us{
+
+	height: 30px;
+	width: 90px;
+	background-color: #00ffff
+}
+
+
+
+.location{
+
+	height: 30px;
+	width: 90px;
+	background-color: #00ffff
+}
+
+.services{
+
+	height: 30px;
+	width: 90px;
+	background-color: #00ffff
+}
+
+.careers{
+
+	height: 30px;
+	width: 90px;
+	background-color: #00ffff
+}
+
+
+
+
+/*-----------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+.stay-contact{
+
+background-color: #00ffff;
+	height: 40px;
+	display: flex;
+}
+
+
+.facebook{
+
+	height: 30px;
+	width: 90px;
+	background-color: #ffffff;
+}
+
+
+
+.instagram{
+
+	height: 30px;
+	width: 90px;
+	background-color:#ffffff
+}
+
+.tweeter{
+
+	height: 30px;
+	width: 90px;
+	background-color: #ffffff
+}
+
+.youtube{
+
+	height: 30px;
+	width: 90px;
+	background-color: #ffffff
+}
+
+
+
+
+
+
+
+
+
